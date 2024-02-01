@@ -1,1 +1,1 @@
-# circulaire-modelomgeving-voor-residentiele-projecten
+# circulaire modelomgeving voor residentiëleprojecten
