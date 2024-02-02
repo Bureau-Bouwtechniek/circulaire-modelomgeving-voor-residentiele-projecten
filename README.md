@@ -4,3 +4,7 @@ Het ‘circulaire modelomgeving voor residentiële projecten’ [CMRP] -project 
 Hierbij willen we, op basis van de modellen die ontwikkeld worden tijdens de ontwerpfase van een gebouw, inzichten geven aan de ontwerper, bouwheer en/of koper over de circulariteit van het project. 
 Door de verschillende partijen te informeren trachten we hen te sturen in het toepassen van circulaire ontwerpkeuzes. 
 Hoe vroeger in het proces circulaire keuzes kunnen gemaakt worden, hoe makkelijker deze kunnen worden toegepast.
+
+## Wiki
+For more information on how to use the CMRP-Toolset:
+https://github.com/Bureau-Bouwtechniek/circulaire-modelomgeving-voor-residentiele-projecten/wiki
