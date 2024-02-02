@@ -6,5 +6,4 @@ Door de verschillende partijen te informeren trachten we hen te sturen in het to
 Hoe vroeger in het proces circulaire keuzes kunnen gemaakt worden, hoe makkelijker deze kunnen worden toegepast.
 
 ## Wiki
-For more information on how to use the CMRP-Toolset:
-https://github.com/Bureau-Bouwtechniek/circulaire-modelomgeving-voor-residentiele-projecten/wiki
+For more information on how to use the CMRP-Toolset: [Wiki](https://github.com/Bureau-Bouwtechniek/circulaire-modelomgeving-voor-residentiele-projecten/wiki)
